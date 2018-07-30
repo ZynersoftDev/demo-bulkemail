@@ -1,0 +1,13 @@
+<COMPANYLOGO>
+ 
+Dear (client_name),
+
+This is to inform you that (accountno) has (amount) outstanding on (datetime).
+
+disclaimers :
+
+(Department)
+
+This is a computer-generated letter 
+
+To contact us, please call (hotline)
